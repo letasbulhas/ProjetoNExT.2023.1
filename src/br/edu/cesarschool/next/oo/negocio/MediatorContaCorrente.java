@@ -154,7 +154,8 @@ valor na conta, alterar, no DAO, a conta, e retornar null.
     public String excluir(String numero){
         if(stringNulaOuVazia(numero)){
             return "Numero inexistente";
-        } else if(){
+        } else if{
+		return null;
             
         }
     }
